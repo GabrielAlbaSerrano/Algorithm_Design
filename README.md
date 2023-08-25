@@ -1,4 +1,3 @@
-# Algorithm_Design
 # Algorithm Design
 The content of this repository covers algorithms, the various steps to design them, such as efficiency analysis, specification, verification, the design of both iterative and recursive algorithms, as well as more advanced algorithmic schemes like Divide and Conquer, Greedy Method, and Dynamic Programming. I must mention that files with the same name are programs written in different programming and verification languages (Python, C++, Dafny), and their contents are different, complementing each other effectively.
 
